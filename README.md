@@ -1,20 +1,29 @@
-# 联系方式
+## Kang Chao's Home Page
 
-（HR会打印你的简历，用于在面试的时候联系，所以联系方式放到最上边会比较方便）
+**Kang Chao**, Master Student, College of Mechanical and Electronic Engineering, University of Science and Technology of China
 
-- tel：17551053403
-- Email：goodman@gmail.com
-- QQ/微信号：qing_geee（提供一个通过网络可以联系到你的方式）
+E-mail: ek.chao@qq.com.
 
-# 个人信息
+<img src="QQ图片20200721182028.jpg" width="20%">
+### Research Interests
 
- - 沉默王二/男/1989 
- - 专科/家里蹲大学
- - 工作年限：10年
- - 技术博客：http://www.itwanger.com 
- - Github：http://github.com/qinggee ( 有原创repo的Github帐号会极大的提升你的个人品牌  )
+Computer Vision,  Hyperspectral Analysis, Deep Learning, Pattern Recognition
 
- - 期望职位：Java 高级程序员，系统架构师
- - 期望薪资：税前月薪30k~50k，特别喜欢的公司可例外
- - 期望城市：洛阳
+### Research Achievements
+_专利_
 
+- CN201920419380.0一种基于高光谱技术的胶囊分选装置
+- CN201910087104.3基于深度相机的黑果枸杞分选装置及识别与分类算法
+- CN201920635588.6一种新型甘蔗末梢剪切装置
+- CN201920154780.3一种可拆卸拓展的懒人桌
+- CN201920446020.X一种基于激光散斑的苗木根活力测量装置
+- CN201920154795.X一种基于倒钩凹槽履带的黑枸杞分选机
+
+
+### For CV in Papers
+```text
+Shi Jiahao was born in Nantong, Jiangsu, China in 1997. 
+He graduated from Nanjing Forestry University in 2018 and obtained a bachelor's degree in engineering. 
+He is currently pursuing a master's degree at Nanjing Forestry University. 
+His research interests include the application of intelligent algorithms in industry, image data processing and hyperspectral analysis.
+```
