@@ -4,7 +4,7 @@
 
 E-mail: ek.chao@qq.com.
 
-<img src="QQ图片20200721182028.jpg" width="20%">
+<img src="image02.jpg" width="20%">
 ### Research Interests
 
 ```
