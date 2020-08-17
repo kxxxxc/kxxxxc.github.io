@@ -1,6 +1,6 @@
 ## Kang Chao's Home Page
 
-**Kang Chao**, Master Student, College of Mechanical and Electronic Engineering, University of Science and Technology of China
+**Kang Chao**, Master Student, Astronomical techniques and methods, University of Science and Technology of China
 
 E-mail: ek.chao@qq.com.
 
@@ -15,9 +15,7 @@ _专利_
 - CN201920419380.0一种基于高光谱技术的胶囊分选装置
 - CN201910087104.3基于深度相机的黑果枸杞分选装置及识别与分类算法
 - CN201920635588.6一种新型甘蔗末梢剪切装置
-- CN201920154780.3一种可拆卸拓展的懒人桌
-- CN201920446020.X一种基于激光散斑的苗木根活力测量装置
-- CN201920154795.X一种基于倒钩凹槽履带的黑枸杞分选机
+
 
 
 ### For CV in Papers
