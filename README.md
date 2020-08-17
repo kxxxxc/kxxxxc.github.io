@@ -7,8 +7,9 @@ E-mail: ek.chao@qq.com.
 <img src="QQ图片20200721182028.jpg" width="20%">
 ### Research Interests
 
+```
 Computer Vision,  Hyperspectral Analysis, Deep Learning, Pattern Recognition
-
+```
 ### Research Achievements
 _专利_
 
