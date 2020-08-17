@@ -20,7 +20,7 @@ _专利_
 
 ### For CV in Papers
 ```text
-Shi Jiahao was born in Weinan, Shaanxi, China in 1994. 
+Kang Chao was born in Weinan, Shaanxi, China in 1994. 
 He graduated from He Fei University and Technology in 2017 and obtained a bachelor's degree in engineering. 
 He is currently pursuing a master's degree at University of Science and Technology of China. 
 His research interests include the application of intelligent algorithms in industry, image data processing and hyperspectral analysis.
