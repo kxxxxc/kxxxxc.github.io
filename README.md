@@ -9,8 +9,6 @@ E-mail: ek.chao@qq.com.
 Computer Vision,Image processing, Deep Learning, Pattern Recognition
 ```
 ### Research Achievements
-_专利_
-
 
 ### For CV in Papers
 ```text
